@@ -1,0 +1,7 @@
+body{
+  background-color: rgba(17, 24, 39);
+}
+table {
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+  }
